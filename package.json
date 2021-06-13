@@ -1,0 +1,30 @@
+{
+  "name": "node-custom-tlv",
+  "version": "1.0.0",
+  "description": "parser for custom tlv structure",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nau077/node-custom-tlv.git"
+  },
+  "keywords": [
+    "tlv",
+    "parser",
+    "Roman",
+    "Tolokontsev",
+    "node.js"
+  ],
+  "author": "Roman Tolokontsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nau077/node-custom-tlv/issues"
+  },
+  "homepage": "https://github.com/Nau077/node-custom-tlv#readme"
+}
