@@ -90,6 +90,7 @@ describe("#Tlv.parser", function() {
 
     const str = "0002 04 00000000 00A6 05 0003 02 30 0d";
     const result = tlv.parseTlv(str);
+	console.log(result)
 
     expect(result).to.be.an("object");
     const arrResult = Object.entries(result);
