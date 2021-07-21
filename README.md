@@ -81,9 +81,9 @@ const result = tlvParser.parseTlv(str) // { hoddog: 0, chickensLevel: { hotDogPo
 #### Test coverage || покрытие тестов
 * coverage is 97.8%
 * to run tests:
-** npm i
-** npm run test -
-** ![alt text](screenshots/coverage.png "Test coverage 97.8%")
+* npm i
+* npm run test -
+ 
 
 
  
