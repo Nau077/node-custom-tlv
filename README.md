@@ -22,7 +22,7 @@ https://nodejs.org/en/
 
 
 ```
- const NodeCustomTlv = require("NodeCustomTlv")
+ const NodeCustomTlv = require("node-custom-tlv")
 
  const tagDictionary = {
   "0002": { name: "hoddog" },
