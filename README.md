@@ -20,7 +20,7 @@ https://nodejs.org/en/
 * "baseLengthTlvLength" - 1 byte for define tlv length. You can change it/
 * customByteLengths - custom lengths bytes. If you need
 
-
+## Example usage: 
 ```
  const NodeCustomTlv = require("node-custom-tlv")
 
